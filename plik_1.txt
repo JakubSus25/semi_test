@@ -2,3 +2,5 @@ To jest pierwszy plik dla repozytorium. A to nastepna edycja.
 
 Git nie jest spoko.
 Git nie jest łatwy. 
+
+Politechnika Krakowska.
